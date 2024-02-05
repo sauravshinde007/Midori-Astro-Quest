@@ -1,0 +1,24 @@
+-- coin_script.lua
+
+-- Initialize the coin script
+function init(self)
+	-- Assuming you have a "value" property on your coin game object representing the score increment
+	self.value = self.value or 1
+end
+
+-- Handle collision with the player
+function on_message(self, message_id, message, sender)
+	if message_id == hash("contact_point_response") then
+		if message.group == hash("player") then
+
+			--here msg.post is sending msg to main.gui script that coin is collected
+			msg.post("interface#main", "coins")
+			
+			sound.play("#coin_sound")
+		-- Delete the coin object
+			go.delete()
+		
+	    end
+		 
+	end
+end

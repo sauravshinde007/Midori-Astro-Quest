@@ -1,0 +1,32 @@
+go.property("distance", 500)
+
+local SPEED = 100
+local DEAD_SPEED = 200
+
+local COLLISION_RESPONSE = hash("collision_response")
+local BULLET = hash("bullet")
+
+function init(self)
+	-- move back and forth
+	local pos = go.get_position()
+	local to = pos.x + self.distance
+	local duration = self.distance / SPEED
+	go.animate(".", "position.x", go.PLAYBACK_LOOP_PINGPONG, to, go.EASING_LINEAR, duration)
+
+	-- flip sprite
+	local flip = false
+	timer.delay(duration / 2, true, function()
+		flip = not flip
+		sprite.set_hflip("#sprite", flip)
+	end)
+end
+
+function on_message(self, message_id, message, sender)
+	if message_id == hash("trigger_response") and message.enter then
+		go.delete()
+	end
+
+	if message_id == hash("player") then
+		
+	end
+end

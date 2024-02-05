@@ -1,0 +1,37 @@
+animations {
+  id: "rotate"
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 1.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 2.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 3.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 4.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 5.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  images {
+    image: "/assets/images/star coin animation Pack/star coin animation Pack/star coin rotate/star coin rotate 6.png"
+    sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
+max_page_width: 0
+max_page_height: 0
+rename_patterns: ""

@@ -1,0 +1,511 @@
+name: "game"
+instances {
+  id: "slime"
+  prototype: "/main/slime.go"
+  position {
+    x: 963.0
+    y: -5156.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+instances {
+  id: "coins"
+  prototype: "/main/coins.go"
+  position {
+    x: -943.0
+    y: -4323.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins3"
+  prototype: "/main/coins.go"
+  position {
+    x: 2254.0
+    y: -3748.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins4"
+  prototype: "/main/coins.go"
+  position {
+    x: 12689.0
+    y: -3361.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins5"
+  prototype: "/main/coins.go"
+  position {
+    x: 7645.0
+    y: -4996.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins6"
+  prototype: "/main/coins.go"
+  position {
+    x: 5639.0
+    y: -5269.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins7"
+  prototype: "/main/coins.go"
+  position {
+    x: 9098.0
+    y: -4976.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins1"
+  prototype: "/main/coins.go"
+  position {
+    x: 1394.0
+    y: -5150.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "coins2"
+  prototype: "/main/coins.go"
+  position {
+    x: 220.0
+    y: -3968.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.034964
+    y: 0.034964
+    z: 0.034964
+  }
+}
+instances {
+  id: "slime1"
+  prototype: "/main/slime.go"
+  position {
+    x: 4727.0
+    y: -4451.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+instances {
+  id: "slime2"
+  prototype: "/main/slime.go"
+  position {
+    x: 2840.0
+    y: -5047.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+instances {
+  id: "slime3"
+  prototype: "/main/slime.go"
+  position {
+    x: 10319.0
+    y: -3388.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+instances {
+  id: "slime4"
+  prototype: "/main/slime.go"
+  position {
+    x: 7207.0
+    y: -5036.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+instances {
+  id: "slime5"
+  prototype: "/main/slime.go"
+  position {
+    x: 11642.0
+    y: -4684.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.365576
+    y: 1.311435
+    z: 0.996161
+  }
+}
+collection_instances {
+  id: "player"
+  collection: "/main/player.collection"
+  position {
+    x: -1376.0
+    y: -3634.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 0.62
+    y: 0.62
+    z: 0.62
+  }
+}
+scale_along_z: 0
+embedded_instances {
+  id: "background1"
+  data: "components {\n"
+  "  id: \"background1\"\n"
+  "  component: \"/main/scripts/background1.script\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  "components {\n"
+  "  id: \"background11\"\n"
+  "  component: \"/assets/background1.tilemap\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 1.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  ""
+  position {
+    x: 4837.0
+    y: -5221.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+embedded_instances {
+  id: "background2"
+  data: "components {\n"
+  "  id: \"background2\"\n"
+  "  component: \"/main/scripts/background2.script\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  "components {\n"
+  "  id: \"background21\"\n"
+  "  component: \"/assets/background2.tilemap\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 1.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  ""
+  position {
+    x: -79.0
+    y: -3978.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+embedded_instances {
+  id: "marslvl"
+  data: "components {\n"
+  "  id: \"level1\"\n"
+  "  component: \"/main/level1.tilemap\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  "embedded_components {\n"
+  "  id: \"collisionobject\"\n"
+  "  type: \"collisionobject\"\n"
+  "  data: \"collision_shape: \\\"/main/level1.tilemap\\\"\\n"
+  "type: COLLISION_OBJECT_TYPE_STATIC\\n"
+  "mass: 0.0\\n"
+  "friction: 0.1\\n"
+  "restitution: 0.5\\n"
+  "group: \\\"ground\\\"\\n"
+  "mask: \\\"player\\\"\\n"
+  "linear_damping: 0.0\\n"
+  "angular_damping: 0.0\\n"
+  "locked_rotation: false\\n"
+  "bullet: false\\n"
+  "\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "}\n"
+  ""
+  position {
+    x: -1572.0
+    y: -4620.0
+    z: 1.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 7.3632
+    y: 7.3632
+    z: 7.3632
+  }
+}
+embedded_instances {
+  id: "interface"
+  data: "components {\n"
+  "  id: \"main\"\n"
+  "  component: \"/main/maingame.gui\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  ""
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
